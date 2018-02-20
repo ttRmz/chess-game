@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RAMIREZ_Tristan__Chess_Project_B2B_.Pieces
+{
+    class King : Piece
+    {
+        public King(Color c) : base(c)
+        { 
+        
+        }
+        public override List<Coord> GetUsuableCoordinates(Coord PieceCoord, Piece[,] Board)
+        {
+            List<Coord> Coords = new List<Coord>();
+            Color adversaire = Color.White;
+            if (color == Color.White)
+            {
+                adversaire = Color.Black;
+            }
+            //Le roi vas en haut
+            Piece PieceCaseAtk1 = Board[PieceCoord.x, PieceCoord.y + 1];
+            if (PieceCaseAtk1 != null && PieceCaseAtk1.color == adversaire && PieceCoord.x < 8 && PieceCoord.y < 8 && PieceCoord.x >= 0 && PieceCoord.y >= 0)
+                Coords.Add(new Coord(PieceCoord.x + 1, PieceCoord.y + 1));
+            if (PieceCaseAtk1 == null && PieceCoord.x < 8 && PieceCoord.y < 8 && PieceCoord.x >= 0 && PieceCoord.y >= 0)
+				Coords.Add(new Coord(PieceCoord.x + 1, PieceCoord.y + 1));
+            return Coords;
+        }
+    }
+}

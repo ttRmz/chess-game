@@ -1,0 +1,9 @@
+C:/Users/Trist/OneDrive - Ynov 1/Projets VisualStudio/RAMIREZ Tristan [Chess Project B2B]/RAMIREZ Tristan [Chess Project B2B]/bin/Debug/RAMIREZ Tristan [Chess Project B2B].exe.config
+/Users/TristanRmz/Dropbox/Ynov/Bachelor 2/Objet/RAMIREZ Tristan [Chess Project B2B]/RAMIREZ Tristan [Chess Project B2B]/obj/Debug/RAMIREZ Tristan [Chess Project B2B].csproj.CoreCompileInputs.cache
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\obj\Debug\RAMIREZ Tristan [Chess Project B2B].csprojResolveAssemblyReference.cache
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\obj\Debug\RAMIREZ Tristan [Chess Project B2B].csproj.CoreCompileInputs.cache
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\bin\Debug\RAMIREZ Tristan [Chess Project B2B].exe.config
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\bin\Debug\RAMIREZ Tristan [Chess Project B2B].exe
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\bin\Debug\RAMIREZ Tristan [Chess Project B2B].pdb
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\obj\Debug\RAMIREZ Tristan [Chess Project B2B].exe
+C:\Users\Trist\Dropbox\Ynov\Bachelor 2\Objet\RAMIREZ Tristan [Chess Project B2B]\RAMIREZ Tristan [Chess Project B2B]\obj\Debug\RAMIREZ Tristan [Chess Project B2B].pdb
